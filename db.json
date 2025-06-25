@@ -1,0 +1,22 @@
+{
+  "erkezesek": [
+    {
+      "id": 1,
+      "jarat": 15,
+      "cel": "Kőbánya"
+      "erkezes": 5
+    },
+    {
+      "id": 2,
+      "jarat": 5,
+      "cel": "Óbuda"
+      "erkezes": 10
+    },
+    {
+      "id": 3,
+      "jarat": 144,
+      "cel": "Astoria"
+      "erkezes": 12
+    },
+  ]
+}
